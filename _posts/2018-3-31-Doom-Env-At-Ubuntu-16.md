@@ -3,7 +3,7 @@ layout: post
 title: VizDoom在Ubuntu 16中的相关配置
 date: 2018-3-31
 categories: blog
-tags: [标签一,标签二]
+tags: [VizDoom,Reinforcement Learning,Ubuntu,Gym]
 description: 文章金句。
 ---
 ## 安装流程
