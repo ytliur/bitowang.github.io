@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VizDoom入门介绍
-date: 2018-03-31
+date: 2018-03-31 16:00:00
 categories: blog
 tags: [VizDoom, Reinforcement Learning]
 description: 文章金句。
