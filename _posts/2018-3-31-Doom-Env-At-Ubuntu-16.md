@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Doom 环境@Ubuntu
+title: VizDoom在Ubuntu 16中的相关配置
 date: 2018-3-31
 categories: blog
 tags: [标签一,标签二]
 description: 文章金句。
 ---
-# 安装流程
+## 安装流程
 - [官方安装链接](https://github.com/mwydmuch/ViZDoom/blob/master/doc/Building.md)
 ## 简要过程
 1. 下载[Anacanda](https://www.anaconda.com/download/)，安装Python 3 
@@ -87,4 +87,3 @@ $ cp /usr/lib/libharfbuzz.so.0.10706.0 /home/hatim/anaconda3/lib/
 $ ln -f /home/xxx/anaconda3/lib/libharfbuzz.so.0.10706.0 /home/xxx/anaconda3/lib/libharfbuzz.so.0 
 ```
 
-- 
