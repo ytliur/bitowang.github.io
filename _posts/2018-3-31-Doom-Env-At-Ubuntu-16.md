@@ -8,9 +8,9 @@ description: 文章金句。
 ---
 
 
-## 安装流程
+# 安装流程
 - [官方安装链接](https://github.com/mwydmuch/ViZDoom/blob/master/doc/Building.md)
-## 简要过程
+# 简要过程
 1. 下载[Anacanda](https://www.anaconda.com/download/)，安装Python 3 
 
    ```
@@ -58,7 +58,7 @@ description: 文章金句。
       ```
     进行过相关搜索，未找到解决方法，可能的缘由：新版本的gym不支持直接配置类的操作了
     
-## 安装出现的问题
+# 安装出现的问题
 - 修改源码中camke_all.sh 的内容(通过log发现有些库未指定，如果是Python3的话，DBUILD_PYTHON3=ON)
    ```
    #cmake -DCMAKE_BUILD_TYPE=Release  -DBUILD_PYTHON3=ON -DBUILD_JAVA=OFF
