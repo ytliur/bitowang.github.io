@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VizDoom在Ubuntu 16中的相关配置
-date: 2018-03-31
+date: 2018-03-31 14:00:00
 categories: blog
 tags: [VizDoom,Reinforcement Learning,Ubuntu,Gym]
 description: 文章金句。
