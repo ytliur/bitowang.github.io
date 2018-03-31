@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VizDoom Tensorflow实例代码解析
-date: 2018-03-31
+date: 2018-03-31 15:00:00
 categories: blog
 tags: [Tensorflow,VizDoom]
 description: 文章金句。
