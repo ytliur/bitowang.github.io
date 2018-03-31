@@ -1,13 +1,14 @@
 ---
 layout: post
 title: VizDoom在Ubuntu 16中的相关配置
-date: 2018-3-31
+date: 2018-03-31
 categories: blog
 tags: [VizDoom,Reinforcement Learning,Ubuntu,Gym]
 description: 文章金句。
 ---
 
 
+# 
 # 安装流程
 - [官方安装链接](https://github.com/mwydmuch/ViZDoom/blob/master/doc/Building.md)
 # 简要过程
